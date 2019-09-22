@@ -1,0 +1,34 @@
+/************* Home page ****************/
+.footer_area .footer_row .footer_about address .my_address li a i{
+    padding-left: 20px !important;
+}
+.subtittle h2:after{
+    right: 0!important;
+}
+
+.fa-chevron-right:before {
+    content: "\f054";
+}
+.top_header_area .top_nav li a i{
+    padding-left: 10px!important;
+}
+/************* about page ****************/
+@media (min-width: 992px)
+.col-md-7{
+    float: right!important;
+}
+.subtittle h2:after{
+    right: 0!important;
+}
+/************* About 2 page ****************/
+.about_us_area .about_row .our_skill_inner .single_skill .progress .progress-bar .progress_parcent{
+    left: 0!important;
+}
+/************* Home page ****************/
+.building_construction_area .building_construction_row .constructing_right .painting li a i{
+    padding-left: 20px!important;
+}
+.fa-chevron-circle-right:before{
+        content: "\f138";
+    padding-left: 10px!important;
+}
